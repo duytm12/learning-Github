@@ -18,7 +18,7 @@ This is a footnote[^1]. Another footnote[^2]
 | Five | Six | $.99 |
 
 
-
+## Collapse
 <details>
   <summary>collapsed</summary>
   # Header
